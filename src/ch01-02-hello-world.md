@@ -4,7 +4,7 @@ Filename: hello.cpc
 ```cpc
 txt/ Hello, world!
 ```
-Listing 1-1: A program that prints `Hello, world!`
+<span class="caption">Listing 1-1: A program that prints `Hello, world!`</span>
 
 Save the file and go back to your terminal window. On **GNU**/Linux, enter the following commands to compile and run the file:
 ```text
